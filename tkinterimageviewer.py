@@ -1,6 +1,9 @@
 from tkinter import *
 from PIL import ImageTk,Image 
 
+#the purpose of this code is to be to able to flip through different images and view them
+
+
 root = Tk()
 root.title("Learn To Code at Codemy.com")
 root.iconbitmap(r'C:\Users\Bug\Pictures\2998124-bug-ladybird-ladybug-virus_99843.ico')
