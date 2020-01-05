@@ -5,6 +5,7 @@ root = Tk()
 root.title("Learn To Code at Codemy.com")
 root.iconbitmap(r'C:\Users\Bug\Pictures\2998124-bug-ladybird-ladybug-virus_99843.ico')
 
+#the image you open is subject to change
 my_img1 = ImageTk.PhotoImage(Image.open(r"C:\Users\Bug\Pictures\bugs.jpg"))
 my_img2 = ImageTk.PhotoImage(Image.open(r"C:\Users\Bug\Pictures\bugs2.jpg"))
 my_img3 = ImageTk.PhotoImage(Image.open(r"C:\Users\Bug\Pictures\bugs3.jpg"))
